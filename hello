@@ -1,1 +1,7 @@
-hello 1
+1.git init 初始化一个仓库
+2.添加一个文件
+	git add 文件名
+	gitcommit -m "描述信息"
+3.git status 查看状态
+4.git diff 查看修改的内容
+
